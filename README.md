@@ -1,4 +1,9 @@
 ### Hi there, I’m Aditya Vighne – aka @@d! 👋
+### Connect with me:
+
+ [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/adityavighne/" />][linkedin]
+
+<br />
 
 <!--
 **adityavighne/adityavighne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
