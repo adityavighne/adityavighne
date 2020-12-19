@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I’m Aditya Vighne – aka @@d! 👋
 
 <!--
 **adityavighne/adityavighne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
