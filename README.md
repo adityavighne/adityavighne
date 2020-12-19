@@ -1,7 +1,7 @@
 ### Hi there, I’m Aditya Vighne – aka @@d! 👋
 <br />
 <br />
-### Languages and Tools:
+Languages and Tools:
 <br />
 <br />
 Connect with me:<br />
