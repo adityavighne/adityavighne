@@ -6,7 +6,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Power BI" width="26px" src="https://github.com/adityavighne/Images/blob/main/Power%20BI.png" />
+
 
 <!--
 **adityavighne/adityavighne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
