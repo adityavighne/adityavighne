@@ -1,12 +1,10 @@
 ### Hi there, I’m Aditya Vighne – aka @@d! 👋
 <br />
 <br />
-### Connect with me:
-<br />
-<br />
-
 ### Languages and Tools:
-
+<br />
+<br />
+### Connect with me:
 
 <!--
 **adityavighne/adityavighne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
