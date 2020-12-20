@@ -1,7 +1,9 @@
 ### Hi there, I’m Aditya Vighne – aka @@d! 👋
 <br />
 <br />
-Languages and Tools:
+Languages and Tools:<br />
+Power BI/ QLikView / SAP Analytics Cloud / Google Analytics / Adobe Analytics <br />
+SAP Marketing Cloud / SSMS / Sales Cloud / Social Media tool
 <br />
 <br />
 Connect with me:<br />
