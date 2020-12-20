@@ -3,7 +3,7 @@
 <br />
 Languages and Tools:<br />
 Power BI/ QLikView / SAP Analytics Cloud / Google Analytics / Adobe Analytics <br />
-SAP Marketing Cloud / SSMS / Sales Cloud / Social Media tool
+SAP Marketing Cloud / SSMS / Sales Cloud / Social Media tools
 <br />
 <br />
 Connect with me:<br />
