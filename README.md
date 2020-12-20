@@ -2,7 +2,7 @@
 <br />
 <br />
 Languages and Tools:<br />
-Power BI/ QlikView / SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
+Power BI / QlikView / SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
 SAP Marketing Cloud / SSMS / Snow Flek / Sales Cloud / Social Media tools
 <br />
 <br />
