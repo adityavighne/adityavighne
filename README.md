@@ -1,4 +1,4 @@
-### Hi there, I’m Aditya Vighne – aka @@d! 👋
+### Hi there, I’m Aditya Vighne 👋
 <br />
 <br />
 Languages and Tools:<br />
