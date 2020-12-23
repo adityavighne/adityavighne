@@ -1,6 +1,6 @@
 ### Hi there, I’m Aditya Vighne 👋
 <br />
-Yes. I use multiple languages/tools because modern requirements come with modern problems. 
+Yes. I use multiple languages/tools because ....
 <br /><br />
 Languages and Tools:<br />
 Power BI / QlikView / SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
