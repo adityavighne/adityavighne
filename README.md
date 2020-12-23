@@ -1,7 +1,7 @@
 ### Hi there, I’m Aditya Vighne 👋
 <br />
 Yes. I use multiple languages/tools because modern requirements come with modern problems. 
-<br /><br /><br />
+<br /><br />
 Languages and Tools:<br />
 Power BI / QlikView / SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
 SAP Marketing Cloud / SSMS / Snow Flek / Sales Cloud / Social Media tools
