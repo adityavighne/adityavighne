@@ -3,8 +3,8 @@
 Yes. I use multiple languages/tools because ....
 <br /><br />
 Languages and Tools:<br />
-Power BI / QlikView / SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
-SAP Marketing Cloud / SSMS / Snow Flek / Sales Cloud / Social Media tools
+Power BI / ThoughtSpot/ Qlik/ SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
+SAP Marketing Cloud / SSMS / Snowflake / Sales Cloud / Social Media tools
 <br />
 <br />
 Connect with me:<br />
