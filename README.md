@@ -1,8 +1,8 @@
 ### Hi there, I’m Aditya Vighne 👋
 <br />
-Yes. I use multiple languages/tools because ....
+Yes. I use multiple tools because of unique feature....
 <br /><br />
-Languages and Tools:<br />
+Tools:<br />
 Power BI / ThoughtSpot/ Qlik/ SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
 SAP Marketing Cloud / SSMS / Snowflake / Sales Cloud / Social Media tools
 <br />
