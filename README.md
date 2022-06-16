@@ -4,7 +4,7 @@ Yes. I use multiple tools because of unique feature....
 <br /><br />
 Tools:<br />
 Power BI / ThoughtSpot/ Qlik/ SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
-SAP Marketing Cloud / SSMS / Snowflake / Sales Cloud / Social Media tools
+SAP Marketing Cloud / HubSpot/ Marketo/ SSMS / Snowflake / Sales Cloud / Social Media tools
 <br />
 <br />
 Connect with me:<br />
