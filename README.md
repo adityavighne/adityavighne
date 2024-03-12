@@ -1,6 +1,6 @@
 ### Hi there, I’m Aditya Vighne 👋
 <br />
-Yes. I use multiple tools because of unique feature....
+Yes. I use multiple tools because of their unique features.
 <br /><br />
 Tools:<br />
 Power BI / ThoughtSpot/ Qlik/ SAP Analytics Cloud / Google Analytics / Data Studio / Adobe Analytics <br />
